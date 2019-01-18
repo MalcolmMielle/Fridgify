@@ -1,3 +1,6 @@
+Privacy rules: every data is handle locally and I have access to nothing. So that's my policies :)
+
+
 # Fridgify 
 
 ## A good looking app to help you save food and live a stress free life.
