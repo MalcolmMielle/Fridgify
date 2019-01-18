@@ -1,4 +1,4 @@
-Privacy rules: every data is handle locally and I have access to nothing. So that's my policies :)
+Privacy rules: every data is handled locally and I have access to none of your data. So that's my policies :)
 
 
 # Fridgify 
