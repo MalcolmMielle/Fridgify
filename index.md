@@ -5,8 +5,8 @@
 
 <!---![Fridgify](https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/4_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg)---> 
 <a href="url"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/4_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg" align="left" height="350"  ></a>
-<a href="url"><img src="https://github.com/MalcolmMielle/Fridgify/blob/master/3_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg" align="left" height="350"  ></a>
-<a href="url"><img src="https://github.com/MalcolmMielle/Fridgify/blob/master/2_5.8%20inch%20-%20Galaxy%20S8_screen__2.jpg" align="left" height="350"  ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/3_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg" align="left" height="350"  ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/2_5.8%20inch%20-%20Galaxy%20S8_screen__2.jpg" align="left" height="350"  ></a>
 <a href="url"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/6_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg" align="left" height="350"  ></a>
 
 Are you tired of going ot the supermarket and not knowing what's in your fridge?
