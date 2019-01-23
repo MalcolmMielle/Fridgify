@@ -1,9 +1,13 @@
-Privacy rules: every data is handled locally and I have access to none of your data. So that's my policies :)
-
-
 # Fridgify 
 
 ## A good looking app to help you save food and live a stress free life.
+
+
+<!---![Fridgify](https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/4_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg)---> 
+<a href="url"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/4_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg" align="left" height="350"  ></a>
+<a href="url"><img src="https://github.com/MalcolmMielle/Fridgify/blob/master/3_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg" align="left" height="350"  ></a>
+<a href="url"><img src="https://github.com/MalcolmMielle/Fridgify/blob/master/2_5.8%20inch%20-%20Galaxy%20S8_screen__2.jpg" align="left" height="350"  ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/6_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg" align="left" height="350"  ></a>
 
 Are you tired of going ot the supermarket and not knowing what's in your fridge?
 Tired of having your food going past the expiration date, or not knowing how long it's been in your Frige?
@@ -21,6 +25,7 @@ No more reasons to waste food.
 
 Save money, eat better, waste less. Join Fridgify.
 
+
 # Real reviews for real people I swear
 
 "This app is fantastic and probably as special as you." _My mom_
@@ -28,3 +33,7 @@ Save money, eat better, waste less. Join Fridgify.
 "Can you stop asking that I try your app. Seriously..." _My sister_
 
 "Why is it all in English anyway, can't use it." _My dad_
+
+# Privacy rules
+
+**Privacy rules**: every data is handled locally and I have access to none of your data. So that's my policies :)
