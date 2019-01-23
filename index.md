@@ -5,11 +5,13 @@
 
 <table >
   <tr>
-    <td align="left"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/4_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg" align="left"   ></td>
-     <td align="right"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/1_5.8%20inch%20-%20Galaxy%20S8_screen__1.jpg" align="left" ></td>
-    <td align="right"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/3_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg" align="left"  ></td>
-    <td align="right"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/2_5.8%20inch%20-%20Galaxy%20S8_screen__2.jpg" align="left"  ></td>
-    <td align="right"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/6_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg" align="left" ></td>
+    <td align="left" colspan="3"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/4_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg" align="left"   ></td>
+     <td align="right" colspan="3"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/1_5.8%20inch%20-%20Galaxy%20S8_screen__1.jpg" align="left" ></td>
+    </tr>
+    <tr>
+    <td align="right" colspan="2"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/3_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg" align="left"  ></td>
+    <td align="right" colspan="2"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/2_5.8%20inch%20-%20Galaxy%20S8_screen__2.jpg" align="left"  ></td>
+    <td align="right" colspan="2"><img src="https://raw.githubusercontent.com/MalcolmMielle/Fridgify/master/6_5.8%20inch%20-%20Galaxy%20S8_screen__3.jpg" align="left" ></td>
   </tr>
 </table>
 
