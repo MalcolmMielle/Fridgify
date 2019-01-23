@@ -23,13 +23,13 @@ But knowing what's in your fridge is only half of the problem.
 The other is **eating it**.
 
 And that's where Fridgify is more than just your fridge in an app.
-Fridgify will gives you suggestions of recipe based on what is in your fridge.
+Fridgify will gives you suggestions of recipes based on what is in your fridge.
 No more reasons to waste food.
 
 Save money, eat better, waste less. Join Fridgify.
 
 
-# Real reviews for real people I swear
+# Real reviews from real people I swear
 
 "This app is fantastic and probably as special as you." _My mom_
 
