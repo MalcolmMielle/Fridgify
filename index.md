@@ -16,7 +16,7 @@
 </table>
 
 
-Are you tired of going ot the supermarket and not knowing what's in your fridge?
+Are you tired of going to the supermarket and not knowing what's in your fridge?
 Tired of having your food going past the expiration date, or not knowing how long it's been in your Frige?
 
 Fridgify is here to help!
